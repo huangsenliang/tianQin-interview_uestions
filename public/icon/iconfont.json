@@ -1,0 +1,23 @@
+{
+  "id": "1951051",
+  "name": "天勤科技",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5491698",
+      "name": "铃声",
+      "font_class": "lingsheng",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "11598529",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
